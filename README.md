@@ -7,6 +7,6 @@ My first games: https://github.com/newbieprogrammer123/TowerDefence, https://git
 
 This is the last, the best, and the most developed game: https://github.com/newbieprogrammer123/2DPlatformer
 
-Me and my team created the AI voice stylist Vogue Voice: https://tanstack-start-app.jayaprathaptaran.workers.dev/chat
+Me and my team created the AI voice stylist Vogue Voice: https://github.com/k2ai-dev/VogueVoice
 
 I am also doing some 2.5D game project, but it is still in progress.
