@@ -1,12 +1,20 @@
-# Unity-and-Web-Projects
-This is a collection of my own IT projects. 
+# Technical Portfolio Index | Kassym Omerzhan
 
-My first website: https://github.com/newbieprogrammer123/Website
+Welcome to the centralized repository for my core software development, web application, and game design projects. Below are direct references to individual codebase repositories.
 
-My first games: https://github.com/newbieprogrammer123/TowerDefence, https://github.com/newbieprogrammer123/RPG, https://github.com/newbieprogrammer123/Horror, https://github.com/newbieprogrammer123/CardsGame
+## 🚀 Featured Web & AI Applications
+* **VogueVoice AI (Hackathon Project):** Co-created cross-border interactive personal stylist web application. 
+  * [Code Repository](https://github.com/k2ai-dev/VogueVoice)
+* **Full-Stack Responsive Web Deployment:** Foundational web application structure.
+  * [Code Repository](https://github.com/newbieprogrammer123/Website)
 
-This is the last, the best, and the most developed game: https://github.com/newbieprogrammer123/2DPlatformer
+## 🎮 Game Architecture & Design (STEP Academy Deployment)
+A collection of modular, fully functioning game builds demonstrating advanced game state logic, physics programming, and asset integration in Unity 3D.
 
-Me and my team created the AI voice stylist Vogue Voice: https://github.com/k2ai-dev/VogueVoice
+* **Advanced 2D Platformer (Core Deployment):** [Code Repository](https://github.com/newbieprogrammer123/2DPlatformer)
+* **Tower Defense Engine:** [Code Repository](https://github.com/newbieprogrammer123/TowerDefence)
+* **3D Role-Playing Game (RPG) Framework:** [Code Repository](https://github.com/newbieprogrammer123/RPG)
+* **3D Immersive Horror Environment:** [Code Repository](https://github.com/newbieprogrammer123/Horror)
+* **Card Game Mechanics Engine:** [Code Repository](https://github.com/newbieprogrammer123/CardsGame)
 
-I am also doing some 2.5D game project, but it is still in progress.
+*Note: Active development is currently underway on an upcoming 2.5D cross-platform game environment layout.*
